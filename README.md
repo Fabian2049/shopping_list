@@ -5,6 +5,7 @@
 4. Bag
 5  hangers
 6  earpods
+7  music player
 
 
 https://{TOKEN}@github.com/Fabian2049/shopping_list.git
