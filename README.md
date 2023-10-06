@@ -4,6 +4,7 @@
 3. perfumes
 4. Bag
 5  hangers
+6  earpods
 
 
 https://{TOKEN}@github.com/Fabian2049/shopping_list.git
